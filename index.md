@@ -15,6 +15,12 @@ __Rave Features__
 > - Custom Server Prefix
 > - Lag-free
 
+For a list of the bot's commands, you can use `.help`, or replace `.` with whatever prefix you have changed it to for your guild/server (`.prefix set <new prefix>`).
+
+Invite the bot, authorise which server you'd like to add the bot at, and your done, use `.play <song name>` in the server to start!
+
+Set a prefix: `.prefix set <new prefix>`
+
 
 ***Links:***
 
@@ -23,3 +29,5 @@ __Rave Features__
 
 [Terms](/terms)
 [Privacy Policy](/privacy)
+
+#### __***We hope you'll have a pleasing experience with Rave!***__
