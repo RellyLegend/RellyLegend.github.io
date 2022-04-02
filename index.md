@@ -3,6 +3,19 @@
 
 Welcome to Rave's Home.
 
+__Rave Features__
+
+> - Efficient quality
+> - 24/7 Online
+> - Help Command
+> - Seek, shuffle & previous command.
+> - Controlable Volume
+> - Slash Commands (*soon*)
+> - Support at Support Server
+> - Custom Server Prefix
+> - Lag-free
+
+
 ***Links:***
 
 [Invite Me](https://discord.com/api/oauth2/authorize?client_id=956968561551741038&permissions=3230720&scope=bot)
