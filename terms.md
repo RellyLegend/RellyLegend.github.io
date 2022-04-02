@@ -16,3 +16,8 @@ When we use "you" or "your", we refer to you, the reader of this terms.
 - **(3)** Do not add the bot to fake servers.
 - **(4)** If you have suggested or reported something and **we** have not responded or dealt with your issue please do not scream or ping anyone in the **Rave Team**.
 - **(5)** As mentioned by Discord them selves, you will need to be **13+** to use **our** application, or Discord's application it self.
+
+[Terms](/terms)
+[Privacy Policy](/privacy)
+
+#### __***We hope you'll have a pleasing experience with Rave!***__
