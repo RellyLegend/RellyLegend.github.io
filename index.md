@@ -1,7 +1,7 @@
 ## Rave Bot - Welcome
 *A new Discord Music Bot to play music in Discord to YouTube! Invite now for a pleasing experience!*
 
-[![Discord Bots](https://top.gg/api/widget/956968561551741038.svg)
+![Discord Bots](https://top.gg/api/widget/956968561551741038.svg)
 
 Welcome to Rave's Home.
 
