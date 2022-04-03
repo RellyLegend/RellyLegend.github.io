@@ -15,11 +15,20 @@ __How & what data do we store?__
 We store your server's ID & a custom prefix.
 We use your ID to cache your server's information to know where a command is executed and if the right **custom prefix** is used.
 
+### User
+
+If you start an economy account using `.start`, we store your default discord ID.
+We use your ID to get your information on points.
+
 __How do I get rid of this data?__
 
 #### Get rid of my server's data
 
 If you'd like to delete the stored **guild/server data**, simply kick the bot from your desired server.
+
+## Get rid of my economy account
+
+Use `.delete` to delete your economy account permanently.
 
 __Location__
 
